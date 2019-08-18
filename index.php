@@ -88,7 +88,7 @@
       </div>
       <div class="popup__content">
         <div class="consultant popup__consultant">
-          <div class="consultant__tablet"><span class="consultant__name">Владислав</span><span class="consultant__rang">Аккаунт менеджер</span></div>
+          <div class="consultant__tablet"><span class="consultant__name">Владислав</span><span class="consultant__rang">Account manager</span></div>
         </div>
         <div class="get-call popup__get-call">
           <p class="get-call__caption popup--nerve--header"></p>
