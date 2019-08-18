@@ -1,0 +1,30 @@
+.booklet__price{
+	position: absolute;
+    width: 200px;
+    height: 40px;
+    left: 50%;
+    margin-left: -100px;
+    bottom: 30px;
+    color: #333;
+    border-color: #333;
+    color: #B20115;
+    background: transparent;
+
+}
+.booklet__price1 {
+	display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.large-booklet:after {
+    top: auto;
+    bottom: 0px; }

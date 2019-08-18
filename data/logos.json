@@ -1,0 +1,22 @@
+{
+  "vinil" : {
+    "header": "Vinil Sky - Интерьер, натяжные потолки",
+    "path": "vinil"
+  },
+  "oms" : {
+    "header": "Доктор челюстно-лицевой хирургии",
+    "path": "oms"
+  },
+  "hb" : {
+    "header": "Health Balance - магазин спортивного питания",
+    "path": "hb"
+  },
+  "kelt" : {
+    "header": "Kelt - спортивный инвентарь, туризм",
+    "path": "kelt"
+  },
+  "terra" : {
+    "header": "Gameterra - Магазин, техника для геймеров",
+    "path": "terra"
+  }
+}
