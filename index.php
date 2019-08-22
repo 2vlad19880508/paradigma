@@ -18,7 +18,7 @@
     <!--meta information end-->
 
     <!--title-->
-    <title>Paradigma</title>
+    <title>Web-studio Paradigma</title>
     <!--title end-->
 
     <!--favicons-->
